@@ -1,2 +1,3 @@
 # gh-pages-common-public
-Common files for github pages
+
+Common public files for github pages
